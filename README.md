@@ -1,0 +1,2 @@
+# ruleta
+homework 2
